@@ -1,4 +1,4 @@
-# Rock paper scissors
+# rock_paper_scissors(always-win).py
 # Author: Abid
 
 import time

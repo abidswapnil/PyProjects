@@ -1,4 +1,4 @@
-# Guess the number
+# guess_the_number.py
 # Author: Abid
 
 class PyProject:

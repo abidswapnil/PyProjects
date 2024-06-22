@@ -1,4 +1,4 @@
-# Dice roller
+# dice_roller.py
 # Author: Abid
 
 import random

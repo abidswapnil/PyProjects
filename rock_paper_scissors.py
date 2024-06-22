@@ -1,4 +1,4 @@
-# Rock paper scissors
+# rock_paper_scissors.py
 # Author: Abid
 
 import time
